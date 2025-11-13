@@ -92,7 +92,7 @@ Connect to EC2 Using SSH
     <img src="mclaren720s.jpg" alt="McLaren">
 
 
-# All induvidual codes for each car pages iduvidually is attacghed in the word document via screenshots.
+Note- All induvidual codes for each car pages iduvidually is attached in the word document via screenshots.
 
 ## Booking Page Description
 The booking.html page allows the user to:
