@@ -5,6 +5,8 @@
 
 ## Site - http://luxuryrentals.click/
 
+## Video Explainer - https://youtu.be/CeulqgloImQ
+
 Project Overview
 The project involves deploying a fully functional Exotic Car Rental Website on an AWS EC2 Ubuntu server. The website showcases luxury cars and allows users to view car specifications and proceed to a simulated booking page.
 The goal is to demonstrate:
